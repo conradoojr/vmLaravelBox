@@ -10,18 +10,12 @@ keys:
     - ~/.ssh/id_rsa
 
 folders:
-    - map: D:\\appweb
+    - map: D:\\projetos
       to: /home/vagrant/Code
 
 sites:
-    - map: laravel-teste.app
-      to: /home/vagrant/Code/conrado/laravel/testev/public
-    - map: info.lbox
-      to: /home/vagrant/Code/pluginsweb
-    - map: sigaa.lbox
-      to: /home/vagrant/Code/sigaaweb/02.Implementacao
-    - map: professorapp.lbox
-      to: /home/vagrant/Code/professorapp/www
+    - map: saoluiz.peppa.app
+      to: /home/vagrant/Code/Peppa/public
 
 databases:
     - homestead
