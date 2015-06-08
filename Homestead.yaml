@@ -17,6 +17,9 @@ sites:
     - map: saoluiz.peppa.app
       to: /home/vagrant/Code/Peppa/public
 
+    - map: oxford.peppa.app
+      to: /home/vagrant/Code/Peppa/public
+
 databases:
     - homestead
 
